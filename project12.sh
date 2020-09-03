@@ -9,4 +9,6 @@ A script is a list of command that are executed by a certains program or scripti
 
 5-Awk commend is used to extract or filter data in a command output and the Set command is use to edit a file
 
-6-
+9- Git is a command that help us manage code
+
+10-To help a company secure their ubuntu i will ask then to go on CIS benchmark website and download the updated version of ubuntu if they have an account,if not  they will get a free version .i will also advice then to use  the system hardening road map that will heilp in checking  the grub update,securing root credentials making sure that the SELINUX is configured
